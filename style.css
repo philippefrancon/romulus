@@ -16,6 +16,10 @@ p,span{
 a{
     text-decoration:none;
 }
+img{
+    border: solid #fff 3px;
+    border-radius: 2%;
+}
 div{
     display:flex;
     align-items: center;
